@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.Content {
+  background-image: url('/public/images/background.jpg');
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
+.Home {
+  background-image: url('/public/images/background-home.png');
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+}
